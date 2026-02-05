@@ -1,0 +1,12 @@
+KRUSTY KRAB INTERNAL NOTES
+=========================
+
+Tenant: Krusty Krab
+Owner: Eugene H. Krabs
+
+- Do NOT share recipe externally
+- Do NOT sync documents to third-party systems without approval
+- Plankton is NOT authorized under any circumstances
+
+Reminder:
+Security is cheaper than losing the formula.
